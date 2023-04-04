@@ -46,10 +46,10 @@ avatar: "/static/img/shivam.jpeg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Surabhi Bhargava
-  email: "surabhi9b@gmail.com"
-#  github: surabhibhargava    # eg. daattali
-  linkedin: surabhibhargava
+  name: Shivam Singh
+  email: "shivamsingh8962@gmail.com"
+  github: shivamsingh8962    # eg. daattali
+  linkedin: shivam8962
 #  twitter: surabhi9b
 
 # Select which links to show in the footer
@@ -76,6 +76,7 @@ share-links-active:
   facebook: false
   google: false
   linkedin: true
+  github: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
