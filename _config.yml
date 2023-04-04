@@ -48,8 +48,8 @@ avatar: "/static/img/shivam.jpeg"
 author:
   name: Shivam Singh
   email: "shivamsingh8962@gmail.com"
-  github: shivamsingh8962    # eg. daattali
-  linkedin: shivam8962
+  github: "https://github.com/shivam8962/shivam8962"    # eg. daattali
+  linkedin: "https://www.linkedin.com/in/shivamsingh8962/"
 #  twitter: surabhi9b
 
 # Select which links to show in the footer
